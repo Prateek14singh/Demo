@@ -1,0 +1,278 @@
+{
+	"quickLink": [
+		{
+			"id": "1",
+			"image": "https://www.dmartindia.com/static/media/photo-1514792368985-f80e9d482a02.c96767e9.jpg",
+			"name": "New Suppliers",
+			"Desc": "Would you like to showcase your products to us?",
+			"button": "New vendor Online appointment"
+		},
+		{
+			"id": "2",
+			"image": "https://www.dmartindia.com/static/media/photo-1514792368985-f80e9d482a02.c96767e9.jpg",
+			"name": "Landlords",
+			"Desc": "Do you have a property to rent / sell?",
+			"button": "Register As Landlord"
+		},
+		{
+			"id": "3",
+			"image": "https://www.dmartindia.com/static/media/photo-1514792368985-f80e9d482a02.c96767e9.jpg",
+			"name": "Job Aspirants",
+			"Desc": "Interested in joining us?",
+			"button": "Apply Now"
+		},
+		{
+			"id": "4",
+			"image": "https://www.dmartindia.com/static/media/photo-1514792368985-f80e9d482a02.c96767e9.jpg",
+			"name": "Better Schools, Brighter Futures!",
+			"Desc": "Better Schools, Brighter Futures!",
+			"button": "Read More"
+		}
+	],
+	"newStores": [
+		{
+			"id": "1",
+			"state": "Ramol",
+			"place": "Ahmedabad, Gujarat",
+			"image": "https://www.dmartindia.com/static/media/photo-1534723452862-4c874018d66d.4328707c.jpg"
+		},
+		{
+			"id": "2",
+			"state": "Patti Mehna Bathinda",
+			"place": "Bathinda, Punjab",
+			"image": "https://www.dmartindia.com/static/media/photo-1534723452862-4c874018d66d.4328707c.jpg"
+		},
+		{
+			"id": "3",
+			"state": "Nunna Krishna",
+			"place": "Vijayawada, Andhra Pradesh",
+			"image": "https://www.dmartindia.com/static/media/photo-1534723452862-4c874018d66d.4328707c.jpg"
+		}
+	],
+	"aboutUs": [
+		{
+			"id": "1",
+			"title": "OVERVIEW",
+			"text": "DMart is a one-stop supermarket chain that aims to offer customers a wide range of basic home and personal products under one roof. Each DMart store stocks home utility products - including food, toiletries, beauty products, garments, kitchenware, bed and bath linen, home appliances and more - available at competitive prices that our customers appreciate. Our core objective is to offer customers good products at great value. \n DMart was started by Mr. Radhakishan Damani and his family to address the growing needs of the Indian family. From the launch of its first store in Powai in 2002, DMart today has a well-established presence in 306 locations across Maharashtra, Gujarat, Andhra Pradesh, Madhya Pradesh, Karnataka, Telangana, Chhattisgarh, NCR, Tamil Nadu, Punjab and Rajasthan. With our mission to be the lowest priced retailer in the regions we operate, our business continues to grow with new locations planned in more cities. \n The supermarket chain of DMart stores is owned and operated by Avenue Supermarts Ltd. (ASL). The company has its headquarters in Mumbai. \n * The brands D Mart, D Mart Minimax, D Mart Premia, D Homes, Dutch Harbour, etc are brands owned by ASL."
+		},
+		{
+			"id": "2",
+			"title": "FOUNDERS",
+			"text": "DMart is owned and operated by Avenue Supermarts Ltd. (ASL) – a company founded by Mr. Radhakishan Damani. Mr. Radhakishan Damani is respected in the business world as an astute investor in the Indian equity market, he has built a company that constantly strives towards developing a deep understanding of customer needs and satisfying them with the right products. A firm believer in core business fundamentals and strong ethical values, Mr. Damani has built DMart into an efficient, large and profitable retail chain that is highly respected by customers, partners and employees alike."
+		},
+		{
+			"id": "3",
+			"title": "OUR MISSION",
+			"text": "At DMart, we research, identify and make available new products and categories that suit the everyday needs of the Indian family. Our mission is to provide the best value possible for our customers, so that every rupee they spend on shopping with us gives them more value for money than they would get anywhere else."
+		}
+	],
+	"ourReach": [
+		{
+			"id": "1",
+			"state": "Maharashtra",
+			"locations": "Amravati, Aurangabad, Dhule, Ichalkaranji, Jaisingpur, Jalgaon, Jalna, Karad, Kolhapur, Latur, Miraj, Mumbai (MMR), Nagpur, Nanded, Nandurbar, Nashik, Osmanabad, Pune, Ratnagiri, Sangli, Satara, Solapur, Wardha, Yavatmal"
+		},
+		{
+			"id": "2",
+			"state": "Gujarat",
+			"locations": "Ahmedabad, Anand, Ankleshwar, Bharuch, Bhuj, Bilimora, Gandhidham, Gandhinagar, Godhra, Himmatnagar, Kalol, Mahesana, Nadiad, Navsari, Palanpur, Rajkot, Surat, Surendranagar, Vadodara, Valsad, Vapi"
+		},
+		{ "id": "3", "state": "Daman", "locations": "Daman" },
+		{
+			"id": "4",
+			"state": "Telangana",
+			"locations": "Hyderabad, Karimnagar, Khammam, Mancherial, Warangal"
+		},
+		{
+			"id": "5",
+			"state": "Andhra Pradesh",
+			"locations": "Anantapur, Bhimavaram, Eluru, Gudivada, Guntur, Kakinada, Kurnool, Machilipatnam, Nellore, Ongole, Rajahmundry, Suryapet, Tanuku, Tirupati, Tuni, Vijayawada, Visakhapatnam"
+		},
+		{
+			"id": "6",
+			"state": "Karnataka",
+			"locations": "Bengaluru, Belgaum, Gulbarga, Mangaluru, Tumakuru, Udupi"
+		},
+		{
+			"id": "7",
+			"state": "Madhya Pradesh",
+			"locations": "Bhopal, Dewas, Indore, Jabalpur, Mandsaur, Dr. Ambedkar Nagar (Mhow), Neemuch, Pithampur, Ratlam, Ujjain"
+		},
+		{ "id": "8", "state": "Chhattisgarh", "locations": "Bhilai, Durg, Raipur, Rajnandgaon" },
+		{ "id": "9", "state": "NCR", "locations": "Delhi, Faridabad, Ghaziabad, Gurugram, Noida" },
+		{
+			"id": "10",
+			"state": "Tamil Nadu",
+			"locations": "Chennai, Coimbatore, Dindigul, Erode, Hosur, Madurai, Salem, Shoolagiri, Sulur, Tiruchirappalli, Tiruppur"
+		},
+		{
+			"id": "11",
+			"state": "Punjab",
+			"locations": "Amritsar, Barnala, Chandigarh, Jalandhar, Ludhiana, Mandi Gobindgarh, Patiala"
+		},
+		{
+			"id": "12",
+			"state": "Rajasthan",
+			"locations": "Ajmer, Alwar, Bhilwara, Jaipur, Kishangarh, Kota"
+		}
+	],
+	"categories": [
+		{
+			"id": "1",
+			"image": "https://www.dmartindia.com/static/media/DAILY%20ESSENTIALS.e203cb84.jpg",
+			"name": "GROCERY & STAPLES"
+		},
+		{
+			"id": "2",
+			"image": "https://www.dmartindia.com/static/media/DAILY%20ESSENTIALS.e203cb84.jpg",
+			"name": "DAILY ESSENTIALS"
+		},
+		{
+			"id": "3",
+			"image": "https://www.dmartindia.com/static/media/GROCERY%20&%20STAPLES.88be12a7.jpg",
+			"name": "DAIRY & FROZEN"
+		},
+		{
+			"id": "4",
+			"image": "https://www.dmartindia.com/static/media/DMART%20BRANDS.d0b4c9ca.jpg",
+			"name": "DMART BRANDS"
+		},
+		{
+			"id": "5",
+			"image": "https://www.dmartindia.com/static/media/GROCERY%20&%20STAPLES.88be12a7.jpg",
+			"name": "HOME & PERSONAL CARE"
+		},
+		{
+			"id": "6",
+			"image": "https://www.dmartindia.com/static/media/DAILY%20ESSENTIALS.e203cb84.jpg",
+			"name": "BED & BATH"
+		},
+		{
+			"id": "7",
+			"image": "https://www.dmartindia.com/static/media/DMART%20BRANDS.d0b4c9ca.jpg",
+			"name": "HOME APPLIANCES"
+		},
+		{
+			"id": "8",
+			"image": "https://www.dmartindia.com/static/media/DMART%20BRANDS.d0b4c9ca.jpg",
+			"name": "CROCKERY"
+		},
+		{
+			"id": "9",
+			"image": "https://www.dmartindia.com/static/media/GROCERY%20&%20STAPLES.88be12a7.jpg",
+			"name": "FOOTWEAR"
+		},
+		{
+			"id": "10",
+			"image": "https://www.dmartindia.com/static/media/DAILY%20ESSENTIALS.e203cb84.jpg",
+			"name": "LUGGAGE"
+		},
+		{
+			"id": "11",
+			"image": "https://www.dmartindia.com/static/media/FRUITS%20&%20VEGETABLES.ecbcaabc.jpg",
+			"name": "TOYS & GAMES"
+		},
+		{
+			"id": "12",
+			"image": "https://www.dmartindia.com/static/media/DAILY%20ESSENTIALS.e203cb84.jpg",
+			"name": "PLASTIC CONTAINERS"
+		},
+		{
+			"id": "13",
+			"image": "https://www.dmartindia.com/static/media/GROCERY%20&%20STAPLES.88be12a7.jpg",
+			"name": "KID'S APPAREL"
+		},
+		{
+			"id": "14",
+			"image": "https://www.dmartindia.com/static/media/GROCERY%20&%20STAPLES.88be12a7.jpg",
+			"name": "WOMEN'S APPAREL"
+		},
+		{
+			"id": "15",
+			"image": "https://www.dmartindia.com/static/media/DAILY%20ESSENTIALS.e203cb84.jpg",
+			"name": "MEN'S APPAREL"
+		},
+		{
+			"id": "16",
+			"image": "https://www.dmartindia.com/static/media/DMART%20BRANDS.d0b4c9ca.jpg",
+			"name": "FRUITS & VEGETABLES"
+		}
+	],
+	"social": [
+		{
+			"id": "1",
+			"title": "Improving Computer Literacy",
+			"image": "https://api.dmartindia.com/corporate/content/file/v1/7/GFSLpzIGciAREIQPRYmC30MU/Improving%20Computer%20Literacy",
+			"desc": "Computer-aided learning is one of our flagship support programmes. Through a structured curriculum, we aspire to improve digital proficiency. Our curriculum focuses on improving basic computer skills, language and general knowledge proficiency and numerical skills. This year, some of our students worked on a programming language and created animations."
+		},
+		{
+			"id": "2",
+			"title": "Reading Programme",
+			"image": "https://api.dmartindia.com/corporate/content/file/v1/8/RqkwUnwyL99DVrb8I9e9B9iS/Reading%20Programme",
+			"desc": "We continue to expand our library programme. We provide grade-specific books in all the libraries in three different languages to support differentiated intervention. Activity-based reading programme was implemented through these libraries to inculcate reading habit among students. This programme has benefited more than 50,000 students."
+		},
+		{
+			"id": "3",
+			"title": "Spoken English Proficiency",
+			"image": "https://api.dmartindia.com/corporate/content/file/v1/7/GFSLpzIGciAREIQPRYmC30MU/Improving%20Computer%20Literacy",
+			"desc": "Computer-aided learning is one of our flagship support programmes. Through a structured curriculum, we aspire to improve digital proficiency. Our curriculum focuses on improving basic computer skills, language and general knowledge proficiency and numerical skills. This year, some of our students worked on a programming language and created animations."
+		},
+		{
+			"id": "4",
+			"title": "Habits of Cleanliness and Hygiene",
+			"image": "https://api.dmartindia.com/corporate/content/file/v1/7/GFSLpzIGciAREIQPRYmC30MU/Improving%20Computer%20Literacy",
+			"desc": "Computer-aided learning is one of our flagship support programmes. Through a structured curriculum, we aspire to improve digital proficiency. Our curriculum focuses on improving basic computer skills, language and general knowledge proficiency and numerical skills. This year, some of our students worked on a programming language and created animations."
+		},
+		{
+			"id": "5",
+			"title": "Building As a Learning Aid (BALA)",
+			"image": "https://api.dmartindia.com/corporate/content/file/v1/7/GFSLpzIGciAREIQPRYmC30MU/Improving%20Computer%20Literacy",
+			"desc": "Computer-aided learning is one of our flagship support programmes. Through a structured curriculum, we aspire to improve digital proficiency. Our curriculum focuses on improving basic computer skills, language and general knowledge proficiency and numerical skills. This year, some of our students worked on a programming language and created animations."
+		},
+		{
+			"id": "6",
+			"title": "Remedial Classes",
+			"image": "https://api.dmartindia.com/corporate/content/file/v1/7/GFSLpzIGciAREIQPRYmC30MU/Improving%20Computer%20Literacy",
+			"desc": "Computer-aided learning is one of our flagship support programmes. Through a structured curriculum, we aspire to improve digital proficiency. Our curriculum focuses on improving basic computer skills, language and general knowledge proficiency and numerical skills. This year, some of our students worked on a programming language and created animations."
+		},
+		{
+			"id": "7",
+			"title": "Public Private Partnership (ppp) Model schools",
+			"image": "https://api.dmartindia.com/corporate/content/file/v1/7/GFSLpzIGciAREIQPRYmC30MU/Improving%20Computer%20Literacy",
+			"desc": "Computer-aided learning is one of our flagship support programmes. Through a structured curriculum, we aspire to improve digital proficiency. Our curriculum focuses on improving basic computer skills, language and general knowledge proficiency and numerical skills. This year, some of our students worked on a programming language and created animations."
+		},
+		{
+			"id": "8",
+			"title": "Parents Outreach",
+			"image": "https://api.dmartindia.com/corporate/content/file/v1/7/GFSLpzIGciAREIQPRYmC30MU/Improving%20Computer%20Literacy",
+			"desc": "Computer-aided learning is one of our flagship support programmes. Through a structured curriculum, we aspire to improve digital proficiency. Our curriculum focuses on improving basic computer skills, language and general knowledge proficiency and numerical skills. This year, some of our students worked on a programming language and created animations."
+		}
+	],
+	"partner": [
+		{
+			"id": "1",
+			"title": "Name of Organisation / Company *",
+			"placeholder": "Enter Name of Organisation / Company"
+		},
+		{ "id": "2", "title": "Website", "placeholder": "Enter Website " },
+		{ "id": "3", "title": "First Name", "placeholder": "Enter First Name" },
+		{ "id": "4", "title": "Last Name", "placeholder": "Enter Last Name" },
+		{ "id": "5", "title": "Email Id", "placeholder": "Enter Email Id" },
+		{ "id": "6", "title": "Mobile No", "placeholder": "Enter Mobile No" },
+		{ "id": "7", "title": "Location", "placeholder": "Enter Location" }
+        
+
+	],
+	"product": [
+		{ "id": "1", "title": "Category ", "placeholder": "Enter Category " },
+		{ "id": "2", "title": "Goods/Services Being Offered", "placeholder": "Enter G oods/Services Being Offered" },
+		{ "id": "3", "title": "Pan card", "placeholder": "Enter Pan card" },
+		{ "id": "4", "title": "GST No. ", "placeholder": "Enter GST No." },
+		{ "id": "5", "title": "GST Registartion Type", "placeholder": "Enter GST Registartion Type" },
+		{ "id": "6", "title": " Period in Distributorship / Manufacturing /Import", "placeholder": "Enter  Period in Distributorship / Manufacturing /Import" },
+        {"id":"7","title":"Area Covered","placeholder":"Enter Area Covered"},
+		{ "id": "8", "title": "Annual Turnover", "placeholder": "Enter Annual Turnover" },
+		{ "id": "9", "title": "NMCC Number", "placeholder": "Enter NMCC Number" }
+		
+	]
+}
